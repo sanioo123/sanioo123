@@ -1,12 +1,12 @@
-Buenas buenas 👋
+Hey there 👋
 
-Mi nombre es Danilo, tengo **22 años** y vivo en **San Rafael, Mendoza (Argentina 🇦🇷)**.
+My name is Danilo, I'm **22 years old** and I live in **San Rafael, Mendoza (Argentina 🇦🇷)**.
 
-Si bien puedo cubrir el desarrollo **full-stack**, me gusta mucho más el área **backend**. Trabajo principalmente con **Node.js**, **Go**, **Python**, **C/C++**, **Java** y **PHP**. En el frontend, mayormente me gusta usar **TypeScript**, **React**, **Next.js** y **Astro** para crear interfaces responsivas, pero lo que realmente más me gusta es la **lógica del lado del servidor (backend)**.
+While I can cover **full-stack** development, I enjoy the **backend** area much more. I mainly work with **Node.js**, **Go**, **Python**, **C/C++**, **Java** and **PHP**. On the frontend, I mostly like using **TypeScript**, **React**, **Next.js** and **Astro** to create responsive interfaces, but what I really enjoy the most is **server-side logic (backend)**.
 
-También tengo experiencia manejando **servidores Ubuntu** y utilizando el servicio de **Cloudflare** para proteger sitios de bots y ataques.
+I also have experience managing **Ubuntu servers** and using **Cloudflare** to protect sites from bots and attacks.
 
-Con **5+ años de experiencia** desde 2020, me especializo en arquitectura de **microservicios**, **APIs**, optimización de **bases de datos** (MySQL y NoSQL), y construcción de sistemas **escalables** y de **alto rendimiento**.
+With **5+ years of experience** since 2020, I specialize in **microservices** architecture, **APIs**, **database** optimization (MySQL and NoSQL), and building **scalable** and **high-performance** systems.
 
 ---
 
@@ -16,6 +16,7 @@ Con **5+ años de experiencia** desde 2020, me especializo en arquitectura de **
 - **Node.js** (5 years) - *Started 2020*
 - **Python** (5 years) - *Started 2020*
 - **PHP** (4 years) - *Started 2021*
+- **.NET/C#** (3 years) - *Started 2022*
 - **Java** (3 years) - *Started 2022*
 - **C/C++** (3 years) - *Started 2022*
 - **Go (Golang)** (2 years) - *Started 2023*
@@ -40,3 +41,7 @@ Con **5+ años de experiencia** desde 2020, me especializo en arquitectura de **
 - **Cloudflare** (4 years) - *Started 2021*
 - **Microservices Architecture** (3 years) - *Started 2022*
 - **Kubernetes** (2 years) - *Started 2023*
+
+### Languages
+- **Spanish** - Native
+- **English** - Upper Intermediate (B2-C1)
